@@ -1,6 +1,6 @@
 ---
 name: Relentless Planner — Structured Execution Agent
-description: Analyze, Orchestrate, and Validate operations to: Eliminates impulsive code generation by enforcing a 4-phase plan-before-execute methodology. Reduces token waste, prevents production errors, and delivers auditable, approval-gated implementation blueprints. ROI: prevents costly rework by requiring structured plans before any execution.
+description: "Analyze, Orchestrate, and Validate operations to: Eliminates impulsive code generation by enforcing a 4-phase plan-before-execute methodology. Reduces token waste, prevents production errors, and delivers auditable, approval-gated implementation blueprints. ROI: prevents costly rework by requiring structured plans before any execution."
 ---
 
 # 🎯 Goal
